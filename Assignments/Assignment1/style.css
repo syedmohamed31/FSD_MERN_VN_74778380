@@ -1,0 +1,78 @@
+.a{
+                border: 2px solid rgba(0, 0, 0, 0.382) ;
+                text-align: center;
+                margin: 100px;
+                 margin-left: 50px;
+                margin-right:100px ;
+                
+                border-radius: 2%;
+                background-color: white;  
+                padding: 50px; 
+                
+                
+
+            }
+            .d{
+                border-radius: 10%;
+                height: 100px;
+                width: 100px;
+                
+            }
+            .b{
+                border: 2px solid rgba(0, 0, 0, 0.23);
+                text-align: center;
+                margin: 100px;
+                 margin-left: 100px;
+                margin-right: 100px;
+                 border-radius: 2%;
+                  background-color: white;
+                  padding: 50px;
+            }
+            .e{
+                border-radius: 10%;
+                height: 100px;
+                width: 100px;
+            }
+            .c{
+                border: 1px solid rgba(0, 0, 0, 0.292);
+                text-align: center;
+                margin: 100px;
+                 margin-left: 100px;
+                margin-right:100px ;
+                
+                 border-radius: 2%;
+                  background-color: white;
+                  padding: 50px;
+            }
+            .f{
+                border-radius: 10%;
+                height: 100px;
+                width: 100px;
+            }
+            .aa{
+                border: 1px solid rgba(0, 0, 0, 0.292);
+                text-align: center;
+                margin: 100px;
+                 margin-left: 100px;
+                margin-right:100px ;
+                
+                 border-radius: 2%;
+                  background-color: white;
+                  padding: 50px;
+            }
+            .dd{
+                border-radius: 10%;
+                height: 100px;
+                        width: 100px}
+            .top{background-color: rgb(0, 0, 0);
+                color: white;
+                padding:2px ;
+                text-align: center;
+            
+                margin-top: 2px;
+                position: static;
+            }
+            .q{
+                display: flex;
+                justify-content:space-between;
+            }
