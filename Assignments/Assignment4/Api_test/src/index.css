@@ -1,0 +1,55 @@
+/* Full-screen gradient background */
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #f8b500, #d53369);
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Main container */
+.container {
+  text-align: center;
+  color: white;
+  width: 80%;
+  max-width: 600px;
+}
+
+/* Title styling */
+.title {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+/* Fact card */
+.fact-box {
+  background: rgba(255, 255, 255, 0.15);
+  padding: 20px;
+  border-radius: 15px;
+  font-size: 1.2rem;
+  backdrop-filter: blur(6px);
+  margin-bottom: 25px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+/* Button */
+.btn {
+  padding: 12px 25px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 12px;
+  background: #ffffff;
+  color: #d53369;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+  background: #ffe7f0;
+}
